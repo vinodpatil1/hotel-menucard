@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hotel-menucard/static/css/main.af348605.css",
+    "main.js": "/hotel-menucard/static/js/main.b9ceb8b5.js",
+    "static/media/hero.jpg": "/hotel-menucard/static/media/hero.7abbf5f8e03e6f683a8f.jpg",
+    "index.html": "/hotel-menucard/index.html",
+    "main.af348605.css.map": "/hotel-menucard/static/css/main.af348605.css.map",
+    "main.b9ceb8b5.js.map": "/hotel-menucard/static/js/main.b9ceb8b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af348605.css",
+    "static/js/main.b9ceb8b5.js"
+  ]
+}
